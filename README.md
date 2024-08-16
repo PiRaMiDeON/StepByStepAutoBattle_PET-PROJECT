@@ -1,5 +1,5 @@
 <p align="center">
-      <img src='https://github.com/PiRaMiDeON/client-server-project-testTask/blob/main/presentGif.gif' width=1000>
+      <img src='https://github.com/PiRaMiDeON/StepByStepAutoBattle_PET-PROJECT/blob/main/Gif.gif' width=1000>
 </p>
 
 <p align="center">
